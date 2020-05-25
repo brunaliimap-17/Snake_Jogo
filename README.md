@@ -1,2 +1,3 @@
 # Snake Game
-Recriando o Jogo da cobrinha com JAVASCRIPT
+
+Aula de javascript da Gabriela Pinheiro, na Digital Innovation One "Recriando o jogo da cobrinha com JavaScript".
